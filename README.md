@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I work on computer networks and my goal is cybersecurity, and now I am looking to secure a challenging role and I believe that my skills, along with my knowledge and experience, will make me an asset to what I want.
+
 
 - 🔭 I’m currently working on ... Computer Networking 
 - 🌱 I’m currently learning ... Networking Management 
@@ -8,5 +10,5 @@
 - 💬 Ask me about ... soft skils ☺️
 - 📫 How to reach me: ... Email [ yasser.alburaidi@gmail.com ] 
 - 😄 Pronouns: ...  he/his
-- ⚡ Fun fact: ... 'm excited to learn anything new 😊
+- ⚡ Fun fact: ...  excited to learn anything new 😊
 
