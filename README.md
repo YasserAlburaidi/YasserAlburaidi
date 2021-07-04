@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work on computer networks and my goal is cybersecurity, and now I am looking to secure a challenging role and I believe that my skills, along with my knowledge and experience, will make me an asset to what I want.
+I work on computer networks and my goal is "Cybersecurity", and now I am looking to secure a challenging role and I believe that my skills, along with my knowledge and experience, will make me an asset to what I want.
 
 
 - 🔭 I’m currently working on ... Computer Networking 
