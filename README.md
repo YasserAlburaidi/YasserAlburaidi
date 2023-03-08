@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Yasser Alburaidi, a Administration & Finance Systems Engineer , Bachelor's Degree in Computer Science from Imam Muhammad Bin Saud Islamic University.I am a very professional person with 100% of his energy and focus and willing to learn, I always try my best to exceed your expectations no matter what.
+My name is Yasser Alburaidi, Administration & Finance Systems Engineer , Bachelor's Degree in Computer Science from Imam Muhammad Bin Saud Islamic University.I am a very professional person with 100% of his energy and focus and willing to learn, I always try my best to exceed your expectations no matter what.
 
 
 - 🔭 I’m currently working on ... Administration & Finance Systems Engineer
